@@ -1,0 +1,15 @@
+template: >
+  Please write a caption in English for this image that can be used as alt text on a website and is at most 125 characters long.
+  Please follow the official guidelines for alt text image captions:
+  The caption should be short and to the point.
+  The caption should communicate the same information as the visual content.
+  The caption should refer to relevant content provided by the image, rather than simply describing how the image looks.
+  The caption should not contain any extra or unnecessary information.
+  Focus on the picture itself, not any handwriting that may be present.
+  For photos and portraits, describe the content of the photo that is relevant to the task of communicating the visual information contained within the image succinctly. Instead of describing how the image looks, describe what information is being conveyed.
+  Please do not include the phrase 'alt text' in the caption.
+
+system: >
+  Do not provide any critical or positive evaluation of the image and its aesthetic qualities.
+  Avoid using vague words such as 'traditional', 'ornate', 'elaborate' to describe cultural, historical or aesthetic aspects of the image.
+  Do not provide the names of people, places or works of art related to the image unless they are present in the prompt.
