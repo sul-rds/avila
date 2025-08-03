@@ -16,7 +16,7 @@ Some vision-language models can generate image captions based not only on the vi
 
 ### The experiments
 
-Potential alt-text descriptions were generated for significant portions of several digital image collections covering a range of subjects and formats. The following pages display the results of using [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL), a powerful vision-language model, to produce both 1) "unprompted" alt-text image descriptions solely on the basis of a generic task description (the "system prompt") = 🤖, and 2) descriptions that are additionally "conditioned" on available human-provided (👤) metadata or image descriptions = 🤖🤝👤.
+Potential alt-text descriptions were generated for significant portions of several digital image collections covering a range of subjects and formats. The following pages display the results of using [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL), a powerful vision-language model, to produce "unprompted" alt-text image descriptions solely on the basis of a "system" prompt containing only a generic task description (🤖), and descriptions that are additionally "conditioned" on a "user" prompt containing available human-provided metadata fields (🗃) and/or natural-language image descriptions (🧑‍🏫).
 
 * [Images from the Douglas Menuez Photography Collection documenting the rise of Silicon Valley](https://web.stanford.edu/~pleonard/cni2025/next/) (an [exhibit](https://exhibits.stanford.edu/menuez) about the collection)
-* [Images from the Library of Congress's public domain collection of historical Japanese art](https://web.stanford.edu/~pleonard/cni2025/loc_japanese/)
+* [Images from the Library of Congress's public domain collection of historical Japanese art](https://web.stanford.edu/~pmb/cni2025/japanese_loc_Qwen2.5-VL-7B-Instruct.html)
