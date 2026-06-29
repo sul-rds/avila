@@ -20,4 +20,4 @@ Potential alt-text descriptions were generated for significant portions of sever
 
 * [Images from the Douglas Menuez Photography Collection documenting the rise of Silicon Valley](https://web.stanford.edu/~pmb/cni2025/menuez_Qwen2.5-VL-7B-Instruct.html) (an [exhibit](https://exhibits.stanford.edu/menuez) about the collection)
 * [Images from the Library of Congress's public domain collection of historical Japanese art](https://web.stanford.edu/~pmb/cni2025/japanese_loc_Qwen2.5-VL-7B-Instruct.html)
-* [Image from the Wylie Wong Collection of May's Studio photographs and San Francisco Chinatown Ephemera, ca. 1920-1940](https://web.stanford.edu/~pmb/cni2025/wong_Qwen3.6-27B-AWQ.html)
+* [Images from the Wylie Wong Collection of May's Studio photographs and San Francisco Chinatown Ephemera, ca. 1920-1940](https://web.stanford.edu/~pmb/cni2025/wong_Qwen3.6-27B-AWQ.html)
