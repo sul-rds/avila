@@ -4,8 +4,8 @@
 
 This project explores uses of cutting-edge AI vision-language models (VLMs) to generate "alt text" image descriptions for digital collections at scale, as well as further potential applications of such technologies, including providing free-text “evocative” search in multiple languages, object detection, and other methods for improving discovery within image collections.
 
-*Peter Broadwell, Manager of AI Modeling & Inference, Research Data Services, Stanford University Libraries
-Lindsay King, Head Librarian, Art and Architecture Library, Stanford University Libraries*
+*Peter Broadwell, Manager of AI Modeling & Inference, Research Data Services, Stanford University Libraries*  
+*Lindsay King, Head Librarian, Art and Architecture Library, Stanford University Libraries*
 
 ## Capabilities of VLMs
 
